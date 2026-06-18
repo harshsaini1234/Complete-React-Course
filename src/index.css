@@ -3,3 +3,10 @@ body{
   color:white;
 
 }
+.container{
+  background-color: gray;
+  color: black;
+  border: 1px solid white;
+  padding: 20px;
+  margin: 20px;
+}
